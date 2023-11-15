@@ -1,11 +1,13 @@
 
-# CODING GPTS!
+# The best Coding GPTS! 😋
 
 A list of GPTs that are helpful for everything coding!
 
+Feel free to contribute to this list as this repo most likely won't feature all Coding GPTs from the get-go!
+
+Keep in mind that most of these are still in experimental phase.
 
 ## List
-
 
 [LeetCode GPT](https://chat.openai.com/g/g-fnGvs3mDx-leetcode-gpt) - Helps you prepare for coding interviews
 
@@ -20,13 +22,12 @@ A list of GPTs that are helpful for everything coding!
 [Flutter GPT](https://chat.openai.com/g/g-pIuczqQoq-flutter-gpt) - Flutter UI code generator with a focus on responsive, beautiful, scalable UI. Share feedback to improve @5hirish on X
 
 [SQL Ninja](https://chat.openai.com/g/g-FgZWbduwR-sql-ninja) - Silent Queries, Lethal Data
+
 [C Interview Assistant](https://chat.openai.com/g/g-KWE08yo7S-c-interview-assistant) - I provide C interview prep and conduct mock interviews.
 
 [C# Interview Assistant](https://chat.openai.com/g/g-r6rdCl5PD-c-interview-assistant) -I provide C# interview prep and conduct mock interviews.
 
-## Contributing
 
-Please feel free to contribute to make this list as helpful as it can possible be!
 
 
 
