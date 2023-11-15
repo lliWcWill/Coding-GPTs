@@ -5,7 +5,9 @@ A list of GPTs that are helpful for everything coding!
 
 Feel free to contribute to this list as this repo most likely won't feature all Coding GPTs from the get-go!
 
-Keep in mind that most of these are still in experimental phase.
+**TO BE ABLE TO ACCESS THESE GPTs, YOU WILL NEED A CHAT GPT PLUS SUBSCRIPTION**
+
+Keep in mind that most of these are still in experimental phase. 
 
 ## List
 
@@ -27,7 +29,9 @@ Keep in mind that most of these are still in experimental phase.
 
 [C# Interview Assistant](https://chat.openai.com/g/g-r6rdCl5PD-c-interview-assistant) -I provide C# interview prep and conduct mock interviews.
 
+# Contributions
 
+If you want to contribute to the list, feel free to open a pull request!
 
 
 
