@@ -21,13 +21,22 @@ Keep in mind that most of these are still in experimental phase.
 
 [GetPaths](https://chat.openai.com/g/g-fnGvs3mDx-leetcode-gpt) - This GPT takes in content related to an application, such as HTTP traffic, JavaScript files, source code, etc., and outputs lists of URLs that can be used for further testing.
 
+[Node.js 21 Whiz 🪄💻](https://chat.openai.com/g/g-WMrANBKyx-node-js-21-whiz) - 💻
+👨‍💻Node.js expert with access to v21.1.0 documentation. Powered by Breebs (www.breebs.com)
+
+[Vue3 GPT](https://gptstore.ai/gpts/42ewgNrseQ-vue3-gpt-latest) - Versatile, up-to-date Vue.js 3 assistant with knowledge of the latest version of Vue.js
+
+[Angular Expert](https://chat.openai.com/g/g-Cz3AcIBpf-angular-expert) - Friendly Angular 14+ expert, referencing official documentation.
+
 [Flutter GPT](https://chat.openai.com/g/g-pIuczqQoq-flutter-gpt) - Flutter UI code generator with a focus on responsive, beautiful, scalable UI. Share feedback to improve @5hirish on X
 
 [SQL Ninja](https://chat.openai.com/g/g-FgZWbduwR-sql-ninja) - Silent Queries, Lethal Data
 
 [C Interview Assistant](https://chat.openai.com/g/g-KWE08yo7S-c-interview-assistant) - I provide C interview prep and conduct mock interviews.
 
-[C# Interview Assistant](https://chat.openai.com/g/g-r6rdCl5PD-c-interview-assistant) -I provide C# interview prep and conduct mock interviews.
+[C# Interview Assistant](https://chat.openai.com/g/g-r6rdCl5PD-c-interview-assistant) - I provide C# interview prep and conduct mock interviews.
+
+[Java interview Assistant](https://chat.openai.com/g/g-W4d6DjJ8c-java-interview-assistant) - I provide Java interview prep and conduct mock interviews.
 
 # Contributions
 
